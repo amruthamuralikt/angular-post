@@ -1,0 +1,36 @@
+
+
+.login-box{
+	max-width: 500px;
+	float:none;
+    margin: 100px 400px 100px;
+    
+	
+}
+
+.login-p{
+	background-color: cornflowerblue;
+	padding: 30px;
+}
+.con-p{
+	margin: 100px 400px 100px;
+background-color: red;
+
+}
+
+.dcol{
+	margin-top:100px;
+	margin-left: 500px;
+	height: 700px;
+ 
+}
+
+
+.cfluid{
+	height: 100%;
+	
+}
+.dtable
+{
+	background-color: skyblue;
+}
